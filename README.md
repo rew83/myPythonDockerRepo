@@ -16,4 +16,4 @@ Make sure you do the following:
 4. Update your credentials ID in Pipeline you are creating.
 5. Open port 8096 in Ec2 instance.
 
-Test auto build with webhook
+Test auto build with webhook 2
